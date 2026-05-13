@@ -13,12 +13,12 @@ export const tracks: Track[] = [
   },
   {
     id: '2',
-    title: 'Midnight Drive',
-    artist: 'Echo Waves',
-    album: 'Synthetic Dreams',
+    title: 'Sakripisyo',
+    artist: 'ArgelYee Echolab',
+    album: 'Padayon Lang',
     coverUrl: 'https://images.unsplash.com/photo-1557672172-298e090bd0f1?auto=format&fit=crop&q=80&w=500',
-    audioUrl: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3',
-    duration: '7:05'
+    audioUrl: 'https://cdn1.suno.ai/6805c391-7f37-46c3-b7a0-843c921a5c8d.mp3',
+    duration: '3:37'
   },
   {
     id: '3',
