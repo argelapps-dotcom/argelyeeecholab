@@ -9,7 +9,7 @@ export const Footer = () => {
           <div className="flex items-center gap-3">
             <Music className="text-brand" size={28} />
             <span className="font-display font-bold text-2xl tracking-wider uppercase">
-              Echo Waves
+              ArgelYee Echolab
             </span>
           </div>
           
@@ -30,7 +30,7 @@ export const Footer = () => {
         </div>
         
         <div className="mt-12 pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-500">
-          <p>&copy; {new Date().getFullYear()} Echo Waves Music. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} ArgelYee Echolab Music. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
