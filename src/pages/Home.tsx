@@ -30,16 +30,16 @@ export const Home = () => {
           >
             <h1 className="text-6xl md:text-8xl lg:text-9xl font-display font-bold uppercase tracking-tighter mb-6">
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-500">
-                Echo
+                ArgelYee
               </span>
               <br />
               <span className="text-gradient">
-                Waves
+                EchoLab
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-300 max-w-2xl mx-auto mb-10 font-light">
               Electronic soundscapes for the modern soul. 
-              New album 'Synthetic Dreams' out now.
+              New album 'Padayon Lang' out now.
             </p>
             
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
