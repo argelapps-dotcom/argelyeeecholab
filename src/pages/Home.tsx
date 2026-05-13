@@ -16,7 +16,7 @@ export const Home = () => {
         <div className="absolute inset-0 z-0">
           <img 
             src="https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&q=80&w=2000"
-            alt="Echo Waves Live Concert"
+            alt="ArgelYee ECholab Live Concert"
             className="w-full h-full object-cover opacity-40"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-dark-900/50 via-dark-900/80 to-dark-900"></div>
@@ -115,11 +115,11 @@ export const Home = () => {
       <section className="py-24 bg-dark-800 relative overflow-hidden">
         <div className="absolute top-0 right-0 w-1/2 h-full bg-brand/5 blur-[150px] rounded-full"></div>
         <div className="container mx-auto px-6 relative z-10 text-center">
-          <h2 className="text-3xl md:text-4xl font-display font-bold mb-12">Connect with Echo Waves</h2>
+          <h2 className="text-3xl md:text-4xl font-display font-bold mb-12">Connect with ArgelYee EchoLab</h2>
           
           <div className="flex flex-col sm:flex-row justify-center gap-6">
             <a 
-              href="https://youtube.com"
+              href="https://www.youtube.com/@argelyeeecholab"
               target="_blank"
               rel="noopener noreferrer"
               className="glass-panel p-8 rounded-2xl flex flex-col items-center gap-4 hover:-translate-y-2 transition-transform hover:border-red-500/50 group"
@@ -134,7 +134,7 @@ export const Home = () => {
             </a>
             
             <a 
-              href="https://facebook.com"
+              href="https://www.facebook.com/argelyeeecholab"
               target="_blank"
               rel="noopener noreferrer"
               className="glass-panel p-8 rounded-2xl flex flex-col items-center gap-4 hover:-translate-y-2 transition-transform hover:border-blue-500/50 group"
