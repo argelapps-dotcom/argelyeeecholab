@@ -8,7 +8,7 @@ export const tracks: Track[] = [
     artist: 'Echo Waves',
     album: 'Synthetic Dreams',
     coverUrl: 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&q=80&w=500',
-    audioUrl: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3',
+    audioUrl: 'https://cdn1.suno.ai/sil-100.mp3',
     duration: '6:12'
   },
   {
