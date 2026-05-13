@@ -23,11 +23,11 @@ export const About = () => {
               <div className="space-y-4">
                 <a href="mailto:booking@echowaves.com" className="flex items-center gap-3 text-gray-300 hover:text-brand transition-colors">
                   <Mail size={20} className="text-brand-accent" />
-                  booking@echowaves.com
+                  xlegra001@gmail.com
                 </a>
                 <div className="flex items-center gap-3 text-gray-300">
                   <MapPin size={20} className="text-brand-accent" />
-                  Los Angeles, CA
+                  Tagum City, Philippines, 8100
                 </div>
               </div>
             </div>
@@ -43,13 +43,13 @@ export const About = () => {
             
             <div className="prose prose-invert prose-lg max-w-none">
               <p className="text-xl text-gray-300 leading-relaxed mb-8">
-                Echo Waves is the electronic music project of producer and sound designer Alex Mercer. 
+                ArgelYee EchoLab is the electronic music project of producer and sound designer Argel Yee. 
                 Fusing elements of synthwave, ambient, and modern techno, the project aims to create 
                 cinematic auditory experiences that transport listeners to neon-drenched futures.
               </p>
               
               <p className="text-gray-400 leading-relaxed mb-6">
-                Emerging from the underground electronic scene in late 2021, Echo Waves quickly gained 
+                Emerging from the underground electronic scene in late 2025, ArgelYee EchoLab quickly gained 
                 traction with a series of self-released singles that caught the attention of influential 
                 curators. The signature sound—characterized by driving analog basslines, ethereal pads, 
                 and meticulous drum programming—draws inspiration from 80s sci-fi soundtracks and contemporary 
@@ -57,14 +57,14 @@ export const About = () => {
               </p>
 
               <p className="text-gray-400 leading-relaxed mb-12">
-                The debut album, <em>Synthetic Dreams</em>, represents a culmination of two years of studio 
+                The debut album, <em>Padayon Lang</em>, represents a culmination of two years of studio 
                 experimentation. It's a conceptual journey exploring the intersection of human emotion and 
                 artificial intelligence, told entirely through instrumental compositions.
               </p>
 
               <h2 className="text-3xl font-display font-bold mb-6 text-white">Live Experience</h2>
               <p className="text-gray-400 leading-relaxed mb-6">
-                Beyond the studio, Echo Waves transforms into an immersive live A/V show. Utilizing custom 
+                Beyond the studio, ArgelYee EchoLab transforms into an immersive live A/V show. Utilizing custom 
                 generative visuals synced to hardware synthesizers and drum machines, the live performance 
                 is a continuous, evolving mix that ensures no two shows are exactly alike.
               </p>
