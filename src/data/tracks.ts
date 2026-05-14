@@ -7,7 +7,7 @@ export const tracks: Track[] = [
     title: 'Padayon Lang',
     artist: 'ArgelYee Echolab',
     album: 'Synthetic Dreams',
-    coverUrl: 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&q=80&w=500',
+    coverUrl: 'https://cdn2.suno.ai/1ee17f39-4ac9-4f47-802c-d0d09e42d22b.jpeg?width=360',
     audioUrl: 'https://cdn1.suno.ai/7314013f-e394-4fad-9866-a36edd7e92d4.mp3',
     duration: '3:15'
   },
@@ -15,27 +15,27 @@ export const tracks: Track[] = [
     id: '2',
     title: 'Sakripisyo',
     artist: 'ArgelYee Echolab',
-    album: 'Padayon Lang',
-    coverUrl: 'https://images.unsplash.com/photo-1557672172-298e090bd0f1?auto=format&fit=crop&q=80&w=500',
+    album: 'Synthetic Dreams',
+    coverUrl: 'https://cdn2.suno.ai/1ee17f39-4ac9-4f47-802c-d0d09e42d22b.jpeg?width=360',
     audioUrl: 'https://cdn1.suno.ai/6805c391-7f37-46c3-b7a0-843c921a5c8d.mp3',
     duration: '3:37'
   },
   {
     id: '3',
-    title: 'Padayon Lang',
+    title: 'Salig ug Gugma',
     artist: 'ArgelYee Echolab',
-    album: 'adayon Lang',
-    coverUrl: 'https://images.unsplash.com/photo-1518818419601-129561133e06?auto=format&fit=crop&q=80&w=500',
-    audioUrl: 'https://cdn1.suno.ai/7314013f-e394-4fad-9866-a36edd7e92d4.mp3',
-    duration: '3:15'
+    album: 'Synthetic Dreams',
+    coverUrl: 'https://cdn2.suno.ai/1ee17f39-4ac9-4f47-802c-d0d09e42d22b.jpeg?width=360',
+    audioUrl: 'https://cdn1.suno.ai/38d46d7d-d869-4c7f-8414-d4584ac2e158.mp3',
+    duration: '2:43'
   },
   {
     id: '4',
-    title: 'Sakripisyo',
+    title: 'Lisod Pero Padayon',
     artist: 'ArgelYee Echolab',
-    album: 'adayon Lang',
-    coverUrl: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=500',
-    audioUrl: 'https://cdn1.suno.ai/6805c391-7f37-46c3-b7a0-843c921a5c8d.mp3',
-    duration: '3:37'
+    album: 'Synthetic Dreams',
+    coverUrl: 'https://cdn2.suno.ai/1ee17f39-4ac9-4f47-802c-d0d09e42d22b.jpeg?width=360',
+    audioUrl: 'https://cdn1.suno.ai/4d1b0baa-fd56-4026-a3ee-df54fbb3ceaa.mp3',
+    duration: '3:18'
   }
 ];
