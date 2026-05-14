@@ -4,8 +4,8 @@ import { Track } from '../types';
 export const tracks: Track[] = [
   {
     id: '1',
-    title: 'Neon Horizon',
-    artist: 'Echo Waves',
+    title: 'Padayon Lang',
+    artist: 'ArgelYee Echolab',
     album: 'Synthetic Dreams',
     coverUrl: 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&q=80&w=500',
     audioUrl: 'https://cdn1.suno.ai/7314013f-e394-4fad-9866-a36edd7e92d4.mp3',
