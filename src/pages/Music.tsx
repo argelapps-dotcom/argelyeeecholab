@@ -13,7 +13,7 @@ export const Music = () => {
       title: 'Synthetic Dreams',
       year: '2024',
       cover: 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&q=80&w=500',
-      tracks: tracks.filter(t => t.album === 'Synthetic Dreams')
+      tracks: tracks.filter(t => t.album === 'Padayon Lang')
     },
     {
       title: 'Singles',
