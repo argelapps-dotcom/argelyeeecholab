@@ -12,13 +12,13 @@ export const Music = () => {
     {
       title: 'Padayon Lang',
       year: '2026',
-      cover: 'https://photos.fife.usercontent.google.com/pw/AP1G…2fX4B51C3P1Xty1oDdt8=w500-h333-s-no-gm?authuser=0',
+      cover: 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&q=80&w=500',
       tracks: tracks.filter(t => t.album === 'Padayon Lang')
     },
     {
       title: 'Singles',
       year: '2023',
-      cover: 'https://photos.fife.usercontent.google.com/pw/AP1G…2fX4B51C3P1Xty1oDdt8=w500-h333-s-no-gm?authuser=0',
+      cover: 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&q=80&w=500',
       tracks: tracks.filter(t => t.album === 'Singles')
     }
   ];
