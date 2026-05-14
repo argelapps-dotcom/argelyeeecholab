@@ -10,8 +10,8 @@ export const Music = () => {
   
   const albums = [
     {
-      title: 'Synthetic Dreams',
-      year: '2024',
+      title: 'Padayon Lang',
+      year: '2026',
       cover: 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&q=80&w=500',
       tracks: tracks.filter(t => t.album === 'Padayon Lang')
     },
