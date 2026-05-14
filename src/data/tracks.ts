@@ -37,5 +37,23 @@ export const tracks: Track[] = [
     coverUrl: 'https://cdn2.suno.ai/1ee17f39-4ac9-4f47-802c-d0d09e42d22b.jpeg?width=360',
     audioUrl: 'https://cdn1.suno.ai/4d1b0baa-fd56-4026-a3ee-df54fbb3ceaa.mp3',
     duration: '3:18'
-  }
+  },
+  {
+    id: '5',
+    title: 'Kaya Kaayo',
+    artist: 'ArgelYee Echolab',
+    album: 'Padayon Lang',
+    coverUrl: 'https://cdn2.suno.ai/1ee17f39-4ac9-4f47-802c-d0d09e42d22b.jpeg?width=360',
+    audioUrl: 'https://cdn1.suno.ai/40ef1ebe-dad1-47df-803b-f755c62c6332.mp3',
+    duration: '3:05'  
+  },
+  {
+    id: '6',
+    title: 'Kayod Lang',
+    artist: 'ArgelYee Echolab',
+    album: 'Padayon Lang',
+    coverUrl: 'https://cdn2.suno.ai/1ee17f39-4ac9-4f47-802c-d0d09e42d22b.jpeg?width=360',
+    audioUrl: 'https://cdn1.suno.ai/1425a01d-1ff7-4625-bf91-af652b90b35a.mp3',
+    duration: '3:10' 
+   }
 ];
