@@ -38,8 +38,8 @@ export const Home = () => {
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-300 max-w-2xl mx-auto mb-10 font-light">
-              Electronic soundscapes for the modern soul. 
-              New album 'Padayon Lang' out now.
+              Reggae soundscapes for the modern soul. 
+              New album 'Padayon Lang' out now for free.
             </p>
             
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
