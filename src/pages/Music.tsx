@@ -32,7 +32,7 @@ export const Music = () => {
           className="mb-16"
         >
           <h1 className="text-5xl md:text-6xl font-display font-bold mb-4">Discography</h1>
-          <p className="text-xl text-gray-400">Explore the full catalog of Echo Waves.</p>
+          <p className="text-xl text-gray-400">Explore the full catalog of EchoLab.</p>
         </motion.div>
 
         <div className="space-y-24">
