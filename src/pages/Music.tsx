@@ -12,7 +12,7 @@ export const Music = () => {
     {
       title: 'Padayon Lang',
       year: '2026',
-      cover: 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&q=80&w=500',
+      cover: 'https://6a05a51246fc04f7c2e24501.imgix.net/Orange%20Sunset%20Aesthetic%20Music%20Album%20Cover.jpg',
       tracks: tracks.filter(t => t.album === 'Padayon Lang')
     },
     {
