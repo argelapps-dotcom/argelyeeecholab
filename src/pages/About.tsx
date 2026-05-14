@@ -15,13 +15,13 @@ export const About = () => {
           >
             <img 
               src="https://images.unsplash.com/photo-1516280440502-a2f727f498c4?auto=format&fit=crop&q=80&w=1000"
-              alt="Echo Waves Studio Portrait"
+              alt="EchoLab Studio Portrait"
               className="w-full rounded-2xl shadow-2xl"
             />
             <div className="mt-8 glass-panel p-6 rounded-xl">
               <h3 className="font-bold text-xl mb-4">Booking & Press</h3>
               <div className="space-y-4">
-                <a href="mailto:booking@echowaves.com" className="flex items-center gap-3 text-gray-300 hover:text-brand transition-colors">
+                <a href="mailto:xlegra001@gmail.com" className="flex items-center gap-3 text-gray-300 hover:text-brand transition-colors">
                   <Mail size={20} className="text-brand-accent" />
                   xlegra001@gmail.com
                 </a>
