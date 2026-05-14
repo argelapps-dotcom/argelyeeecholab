@@ -94,11 +94,12 @@ export const Home = () => {
               className="w-full lg:w-1/2"
             >
               <h2 className="text-brand-accent font-medium tracking-widest uppercase mb-2">Latest Release</h2>
-              <h3 className="text-4xl md:text-5xl font-display font-bold mb-6">Synthetic Dreams</h3>
+              <h3 className="text-4xl md:text-5xl font-display font-bold mb-6">Padayon Lang</h3>
               <p className="text-gray-400 text-lg mb-8 leading-relaxed">
-                A journey through neon-lit streets and digital landscapes. 
-                This album blends retro-futuristic synths with driving modern beats, 
-                creating an immersive auditory experience that bridges the gap between nostalgia and tomorrow.
+                A collection of standalone singles and B-sides released throughout the year — blending Reggae, Hip-Hop, 
+                and Rap into a soulful and experimental sound. Padayon Lang explores themes of struggle, hustle, hope, and 
+                resilience, delivering laid-back island grooves, hard-hitting verses, and emotionally driven storytelling that
+                reflect the evolving sound of EchoLab.
               </p>
               <Link 
                 to="/music"
