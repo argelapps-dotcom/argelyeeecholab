@@ -42,7 +42,7 @@ export const Navbar = () => {
             <Music className="text-white" size={24} />
           </div>
           <span className="font-display font-bold text-xl tracking-wider uppercase text-white">
-            Echo Waves
+            EchoLab
           </span>
         </Link>
 
